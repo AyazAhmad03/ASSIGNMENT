@@ -144,4 +144,4 @@ pip install -r requirements.txt
 
 ## License
 
-This project is intended for educational purposes and the Primetrade.ai hiring assignment.
+This project is intended for educational purposes..
